@@ -15,7 +15,6 @@ class Arrays:
 
 
 nested_arrays = Arrays()
-print(nested_arrays.arrays)
 
 
 class Solution:
